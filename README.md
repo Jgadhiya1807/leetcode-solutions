@@ -18,5 +18,3 @@ It serves as a **personal practice log** and a **reference guide** for anyone pr
 - **Platform:** [LeetCode](https://leetcode.com/)  
 
 ---
-
-## 📂 Repository Structure
